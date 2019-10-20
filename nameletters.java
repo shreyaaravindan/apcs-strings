@@ -21,3 +21,5 @@ public class nameletters {
 	}
 
 }
+
+// describe what this program is doing at the beginning and at the end give some examples of output
