@@ -42,3 +42,4 @@ public class arrayprac {
 	}
 
 
+// separate 3 loops why? Make them into 1
